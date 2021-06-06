@@ -1,2 +1,4 @@
 # javascript
-javascript application Source Code 
+>introdunction Javascript.
+>js enviroment
+>js hello world script
