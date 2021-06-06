@@ -1,4 +1,7 @@
 # javascript
+
+make web page alive 
+
 - introdunction Javascript.
 - js enviroment
 - js hello world script
