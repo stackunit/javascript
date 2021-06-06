@@ -1,7 +1,7 @@
 # javascript
 
->introdunction Javascript.
+-introdunction Javascript.
 
->js enviroment
+-js enviroment
 
->js hello world script
+-js hello world script
